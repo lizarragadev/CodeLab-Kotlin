@@ -5,7 +5,6 @@
     android:layout_height="match_parent"
     android:background="@color/colorAccent"
     tools:context=".ui.PokeKtActivity">
-
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rvKtData"
         android:scrollbars="vertical"
